@@ -1,4 +1,4 @@
-# CRM Migration Case Study: Mailchimp → Klaviyo
+# CRM Migration: Mailchimp → Klaviyo
 
 ## Overview
 
